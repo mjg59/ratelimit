@@ -1,6 +1,7 @@
 // Copyright 2014 Canonical Ltd.
 // Licensed under the LGPLv3 with static-linking exception.
 // See LICENCE file for details.
+// SPDX-License-Identifier: LGPL-3.0-linking-exception
 
 // Package ratelimit provides an efficient token bucket implementation
 // that can be used to limit the rate of arbitrary things.
